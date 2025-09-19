@@ -1,4 +1,4 @@
-![FFT-DM](example_diffusion_process.gif)
+
 
 
 ## Install the requiered libraries 
